@@ -2,7 +2,6 @@
 
 - 👀 I’m interested in data analytics, business intelligence, and machine learning. 
 - 🌱 I’m currently learning Microsoft Power BI and machine learning in Python.
-- 💞️ I’m looking to collaborate on any project in Python.
 - 📫 Reach me at madelinelhenry@gmail.com 
 
 <!---
